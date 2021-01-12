@@ -1,1 +1,1 @@
-% Create figure1
+Create figure1

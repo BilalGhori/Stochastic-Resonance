@@ -1,7 +1,6 @@
 %% Creating manuscript figure-1
 
 clc;clear;close all;
-addpath('data')
 figure(1);
 % load data files
 load('inputSignals_spikes_data_1.mat')

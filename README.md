@@ -1,2 +1,2 @@
 # Stochastic-Resonance
-Stochastic Resonance in a two-compartment Hippocampal pyramidal cell model. 
+Emergence of stochastic resonance in a two-compartment hippocampal pyramidal neuron model

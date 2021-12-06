@@ -1,9 +1,9 @@
 # Emergence of stochastic resonance in a two-compartment hippocampal pyramidal neuron model
-This repository contains the model code and the simulation results.
+This repository contains the model code and the graphic data supporting the main results presented in publication.
 ## Installation
 To install the code, clone or download the repo, navigate to the top directory of the repo and enter the command in the terminal:
-python setup.py install
+# python setup.py install
 The code was run with Ubuntu 18.04.3 and Python 3.6.9.
 ## Reproducing the results
-The directory FoldedSurfaceSimulation/ contains the data and code necessary to simulate the seizure spread on a cortical surface.
+The directory Figures/ contains the data and code necessary to reproduce the main results.
 

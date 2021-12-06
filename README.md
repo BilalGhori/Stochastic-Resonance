@@ -1,5 +1,5 @@
 # Emergence of stochastic resonance in a two-compartment hippocampal pyramidal neuron model
-This repository contains the model code and the graphic data supporting the main results presented in [1].
+This repository contains the model code and the graphic data to reproduce the main results presented in [1].
 ## Installation
 To install the code, clone or download the repo, navigate to the Model Code directory of the repo and enter the command in the terminal: (python setup.py install)
 ## Reproduce the results

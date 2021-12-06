@@ -7,6 +7,8 @@ The Figures directories contain the data and code to reproduce the main results.
 ## References
 [1] Ghori, M. B., Kang, Y. M., Chen, Y. (2021). Emergence of stochastic resonance in a two-compartment hippocampal pyramidal neuron model.
 Journal of Computational Neuroscience (accepted).
+## License
+GPL-v3.0 License
 ## Contact
 Bilal (bilalghori87@gmail.com)
 

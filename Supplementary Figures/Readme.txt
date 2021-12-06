@@ -1,1 +1,1 @@
-Supplementary figures S7-S8
+Supplementary figures S8a and S8b

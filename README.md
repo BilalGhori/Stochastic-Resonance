@@ -5,7 +5,7 @@ To install the code, clone or download the repo, navigate to the Model Code dire
 ## Reproduce the results
 1. Go to Model Code/ directory and enter the command in terminal: python setup.py install
 2. To generate data for Supplementary Figures S8, enter the command in terminal: python Run_Simulations_cPRmodelwIh.py
-3. Go to the Figures directories using MATLAB (version R2020a/b recommended, prerequisites include Machine Learning Toolbox and Signal Processing Toolbox) and reproduce the main results.
+3. Go to the Figures directories using MATLAB (version R2019a/b recommended, prerequisites include Machine Learning Toolbox and Signal Processing Toolbox) and reproduce the main results.
 
 ## References
 If you would like to use this code for the scientific publication, please do not forget to cite the original paper:

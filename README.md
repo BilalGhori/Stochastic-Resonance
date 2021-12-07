@@ -13,5 +13,6 @@ Journal of Computational Neuroscience (accepted).
 ## License
 GPL-v3.0 License
 ## Contact
+If you have any trouble with running these simulations and reproducing the results, please let me know.
 Bilal (bilalghori87@gmail.com)
 

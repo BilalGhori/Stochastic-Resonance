@@ -1,8 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Plot Manuscript Figure 8
-% Power norm C1 vs noise perturbation intensity,E[Arms])
+% Power norm C1 vs noise perturbation intensity,(E[Arms])
 % SR-type behavior under broadband noise perturbation
-
 % December, 2021
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% plot figure 8

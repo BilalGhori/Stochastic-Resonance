@@ -11,7 +11,8 @@ To install the code, clone or download the repo, navigate to the Model Code dire
 If you would like to use this code for the scientific publication, please do not forget to cite the original paper:
 
 [1] Ghori, M. B., Kang, Y. M., Chen, Y. (2021). Emergence of stochastic resonance in a two-compartment hippocampal pyramidal neuron model.
-Journal of Computational Neuroscience (accepted).
+Journal of Computational Neuroscience.
+https://doi.org/10.1007/s10827-021-00808-2
 ## License
 GPL-v3.0 License
 ## Contact
